@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: Steam Daily Deals (Erika) - Visual Tweak (fixed final)
+ * Plugin Name: Steam Daily Deals (hevieri) - Visual Tweak (fixed final)
  * Description: Muestra ofertas del día de Steam como shortcode y widget. Solo muestra porcentaje de descuento; badge reducido y imágenes más visibles.
  * Version: 1.0.9-final
- * Author: Erika Helfenstern
- * Text Domain: steam-daily-deals-erika
+ * Author: hevieri
+ * Text Domain: steam-daily-deals-hevieri
  * Update URI: false
  */
 
@@ -369,3 +369,4 @@ class SDD_Widget extends WP_Widget {
         return $out;
     }
 }
+
