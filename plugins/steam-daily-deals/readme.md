@@ -1,5 +1,6 @@
 # 🔥 Steam Daily Deals — WordPress Plugin
 
+![Captura de pantalla](https://github.com/hevieri/Wordpress-customs/blob/main/plugins/steam-daily-deals/img/screenshot.png?raw=true)
 
 ---
 
@@ -38,3 +39,4 @@ Instalación por línea de comando (desarrollo):
 # desde la raíz de tu instalación WordPress
 cp -r path/to/steam-daily-deals wp-content/plugins/
 wp plugin activate steam-daily-deals
+
